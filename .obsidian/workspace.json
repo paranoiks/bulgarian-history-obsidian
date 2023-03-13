@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "0bd278593be88bf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "59c2597d6e36562e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac07f393493b9e95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Хора/Политици/БЗНС/Стефан Тончев.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b98114d3f4fa8fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Хора/Политици/БКП/Рачо Ангелов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4fb3836817f087a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Хора/Политици/БРСДП/Здравко Митовски.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01cf046008b865b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Хора/Политици/БКП/Манол Сакеларов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d72720c3dab90ae6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Хора/Политици/БЗНС/Стефан Тончев.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce02fde4f2cc1c1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Хора/Политици/БКП/Петко Кунин.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04d234d0dc986803",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Хора/Политици/БЗНС/Васил Павурджиев.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03733d1e30982297",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f328d00d55698b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b020ed4ded32bdc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "869aa4277c5a82ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aeaf099bffdae8a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "васил павурд",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4aa0d130958c80da",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 282.5
+  },
+  "right": {
+    "id": "d418a5ad70ef7b25",
+    "type": "split",
+    "children": [
+      {
+        "id": "d67e009510d27f7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0e3ac4d1cdf4c16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "680f6dd56a20e561",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4cc11c40953ae57e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e7236dbc0e91040a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "03733d1e30982297",
+  "lastOpenFiles": [
+    "Хора/Политици/БРСДП/Здравко Митовски.md",
+    "Хора/Политици/БРСДП/Георги Попов.md",
+    "Хора/Политици/БРСДП/Untitled.md",
+    "Хора/Политици/Звено/Трайчо Доброславски.md",
+    "Хора/Политици/БЗНС/Васил Павурджиев.md",
+    "Хора/Политици/БКП/Петко Кунин.md",
+    "Хора/Политици/БКП/Цопа Драгойчева.md",
+    "Хора/Политици/БЗНС/Стефан Тончев.md",
+    "Хора/Политици/БКП/Петър Каменов.md",
+    "Хора/Политици/БКП/Манол Сакеларов.md",
+    "Хора/Политици/БКП/Кръстю Добрев.md",
+    "Хора/Политици/БКП/Георги Дамянов.md",
+    "Хора/Политици/БЗНС/Ради Найденов.md",
+    "Хора/Политици/Безпартийни/Ради Найденов.md",
+    "Хора/Политици/БКП/Иван Стефанов.md",
+    "Хора/Политици/БКП/Кирил Драмалиев.md",
+    "Хора/Политици/БКП/Антон Югов.md",
+    "Хора/Политици/БКП/Вълко Червенков.md",
+    "Хора/Политици/БКП/Георги Чанков.md",
+    "Хора/Политици/БКП/Добри Терпешев.md",
+    "Хора/Политици/БЗНС/Георги Трайков.md",
+    "Хора/Политици/БКП/Георги Трайков.md",
+    "Хора/Политици/Безпартийни/Кимон Георгиев.md",
+    "Хора/Политици/БКП/Васил Коларов.md",
+    "Правителства/(1946 - 1990) Народна Република България/Правителства/(1949.07.20 - 1954.01.20) Правителство Васил Коларов 1 2.md",
+    "Хора/Политици/БКП/Трайчо Костов.md",
+    "Хора/Политици/Звено",
+    "Хора/Политици/БРСДП"
+  ]
+}

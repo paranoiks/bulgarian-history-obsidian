@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "0bd278593be88bf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a60055cf924d5603",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        },
+        "group": "3ab280847b5dd7b1"
+      },
+      {
+        "id": "f937360df9b888ac",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Хора/Политици/Безпартийни/Даниела Везиева.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "3ab280847b5dd7b1"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f328d00d55698b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b020ed4ded32bdc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "869aa4277c5a82ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "aeaf099bffdae8a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "вези",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4aa0d130958c80da",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 282.5
+  },
+  "right": {
+    "id": "d418a5ad70ef7b25",
+    "type": "split",
+    "children": [
+      {
+        "id": "d67e009510d27f7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0e3ac4d1cdf4c16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "680f6dd56a20e561",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4cc11c40953ae57e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e7236dbc0e91040a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a60055cf924d5603",
+  "lastOpenFiles": [
+    "Хора/Политици/Безпартийни/Даниела Везиева.md",
+    "Държавни Организации/БДЖ.md",
+    "Държавни Организации/Комисия за финансов надзор на Република България.md",
+    "Министерства/(1990) Република България/Министерства/Министърски Позиции/Министър Икономика и Индустрия.md",
+    "Хора/Политици/БКП/Георги Чанков.md",
+    "Хора/Политици/БКП/Марин Грашнов.md",
+    "Хора/Политици/БКП/Станко Тодоров.md",
+    "Хора/Политици/БКП/Живко Живков.md",
+    "Хора/Политици/БКП/Тано Цолов.md",
+    "Хора/Политици/БКП/Антон Югов.md"
+  ]
+}
